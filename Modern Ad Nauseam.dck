@@ -1,0 +1,39 @@
+NAME:Ad Nauseam
+4 [THS:225] Temple of Deceit
+3 [5DN:143] Pentad Prism
+4 [ALA:63] Ad Nauseam
+1 [FUT:78] Slaughter Pact
+4 [TSP:3] Angel's Grace
+4 [ME4:62] Sleight of Hand
+1 [CHK:163] Desperate Ritual
+4 [TSP:259] Lotus Bloom
+3 [TSB:119] Gemstone Mine
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ME3:216] Plains
+1 [RTR:247] Steam Vents
+4 [ARENA:59] Serum Visions
+4 [PLC:122] Simian Spirit Guide
+3 [NPH:18] Phyrexian Unlife
+3 [BNG:163] Temple of Enlightenment
+3 [FUT:42] Pact of Negation
+1 [POR:208] Island
+1 [GTC:249] Watery Grave
+2 [KTK:239] Polluted Delta
+1 [RTR:241] Hallowed Fountain
+1 [KTK:233] Flooded Strand
+1 [TSP:69] Mystical Teachings
+3 [CHK:78] Peer Through Depths
+1 [CSP:89] Lightning Storm
+1 [ODY:342] Swamp
+SB: 1 [DST:21] Echoing Truth
+SB: 1 [FUT:42] Pact of Negation
+SB: 1 [TSB:6] Disenchant
+SB: 2 [AER:57] Fatal Push
+SB: 4 [M11:21] Leyline of Sanctity
+SB: 2 [TSB:40] Darkness
+SB: 1 [PLC:85] Damnation
+SB: 1 [ISD:61] Laboratory Maniac
+SB: 1 [M12:40] Timely Reinforcements
+SB: 1 [10E:88] Hurkyl's Recall
+LAYOUT MAIN:(1,6)(CMC,false,50)|([KTK:233],[TSB:119],[TSB:119],[TSB:119],[RTR:241],[KTK:239],[KTK:239],[RTR:247],[THS:225],[THS:225],[THS:225],[THS:225],[BNG:163],[BNG:163],[BNG:163],[M15:248],[GTC:249],[FUT:42],[FUT:42],[FUT:42],[FUT:78],[TSP:259],[TSP:259],[TSP:259],[TSP:259],[POR:208],[ODY:342],[ME3:216])([TSP:3],[TSP:3],[TSP:3],[TSP:3],[ME4:62],[ME4:62],[ME4:62],[ME4:62],[ARENA:59],[ARENA:59],[ARENA:59],[ARENA:59])([CHK:163],[CHK:78],[CHK:78],[CHK:78],[5DN:143],[5DN:143],[5DN:143])([PLC:122],[PLC:122],[PLC:122],[PLC:122],[CSP:89],[NPH:18],[NPH:18],[NPH:18])([TSP:69])([ALA:63],[ALA:63],[ALA:63],[ALA:63])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([FUT:42])([TSB:40],[TSB:40],[AER:57],[AER:57])([TSB:6],[DST:21],[10E:88])([ISD:61],[M12:40])([PLC:85],[M11:21],[M11:21],[M11:21],[M11:21])

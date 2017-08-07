@@ -1,0 +1,32 @@
+NAME:Legacy Painter
+4 [SHM:257] Painter's Servant
+1 [ONS:313] Bloodstained Mire
+4 [TMP:280] Grindstone
+1 [FUT:101] Magus of the Moon
+4 [ZEN:211] Arid Mesa
+1 [STH:127] Ensnaring Bridge
+2 [MIR:218] Enlightened Tutor
+3 [TMP:284] Lotus Petal
+3 [EXO:143] City of Traitors
+4 [MPRP:40] Lightning Bolt
+2 [UNH:139] Mountain
+1 [HOP:133] Great Furnace
+3 [LEA:287] Plateau
+1 [M15:225] Phyrexian Revoker
+4 [TMP:305] Ancient Tomb
+2 [ULG:80] Goblin Welder
+3 [LEB:171] Red Elemental Blast
+4 [PLC:122] Simian Spirit Guide
+3 [DRK:57] Blood Moon
+4 [ME2:130] Imperial Recruiter
+4 [MED:107] Pyroblast
+1 [UNH:136] Plains
+1 [MBP:18] Jaya Ballard, Task Mage
+SB: 1 [M14:132] Chandra, Pyromaster
+SB: 3 [ALA:10] Ethersworn Canonist
+SB: 2 [M15:225] Phyrexian Revoker
+SB: 3 [TSB:115] Tormod's Crypt
+SB: 4 [M11:21] Leyline of Sanctity
+SB: 2 [STH:127] Ensnaring Bridge
+LAYOUT MAIN:(1,4)(CMC,false,56)|([TMP:305],[TMP:305],[TMP:305],[TMP:305],[ZEN:211],[ZEN:211],[ZEN:211],[ZEN:211],[ONS:313],[EXO:143],[EXO:143],[EXO:143],[HOP:133],[TMP:284],[TMP:284],[TMP:284],[UNH:139],[UNH:139],[UNH:136],[LEA:287],[LEA:287],[LEA:287])([MIR:218],[MIR:218],[ULG:80],[ULG:80],[TMP:280],[TMP:280],[TMP:280],[TMP:280],[MPRP:40],[MPRP:40],[MPRP:40],[MPRP:40],[MED:107],[MED:107],[MED:107],[MED:107],[LEB:171],[LEB:171],[LEB:171])([SHM:257],[SHM:257],[SHM:257],[SHM:257],[M15:225])([DRK:57],[DRK:57],[DRK:57],[STH:127],[ME2:130],[ME2:130],[ME2:130],[ME2:130],[MBP:18],[FUT:101],[PLC:122],[PLC:122],[PLC:122],[PLC:122])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([TSB:115],[TSB:115],[TSB:115])([ALA:10],[ALA:10],[ALA:10],[M15:225],[M15:225])([STH:127],[STH:127])([M14:132],[M11:21],[M11:21],[M11:21],[M11:21])

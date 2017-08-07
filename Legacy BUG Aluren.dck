@@ -1,0 +1,34 @@
+NAME:BUG Aluren
+1 [PD3:29] Swamp
+1 [APAC:11] Forest
+4 [C16:181] Baleful Strix
+4 [EMA:206] Shardless Agent
+4 [ALL:42] Force of Will
+4 [KTK:239] Polluted Delta
+4 [ZEN:220] Misty Rainforest
+2 [RTR:141] Abrupt Decay
+4 [MMQ:61] Brainstorm
+2 [LEB:279] Bayou
+2 [LEB:301] Underground Sea
+1 [MOR:55] Vendilion Clique
+3 [ZEN:229] Verdant Catacombs
+2 [CN2:77] Leovold, Emissary of Trest
+2 [CON:32] Parasitic Strix
+1 [MED:133] Sylvan Library
+4 [RTR:213] Deathrite Shaman
+4 [TMP:107] Aluren
+1 [KLD:50] Glint-Nest Crane
+1 [ARENA:9] Island
+4 [PLS:97] Cavern Harpy
+3 [M12:73] Ponder
+2 [LEA:293] Tropical Island
+SB: 2 [USG:240] Carpet of Flowers
+SB: 4 [M11:101] Leyline of the Void
+SB: 1 [BOK:163] Umezawa's Jitte
+SB: 1 [TMP:56] Chill
+SB: 1 [RTR:141] Abrupt Decay
+SB: 2 [THS:107] Thoughtseize
+SB: 2 [AER:73] Vengeful Rebel
+SB: 2 [JUD:62] Cabal Therapy
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ZEN:220],[ZEN:220],[ZEN:220],[ZEN:220],[KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:229],[ZEN:229],[ZEN:229],[LEB:279],[LEB:279],[LEA:293],[LEA:293],[LEB:301],[LEB:301],[PD3:29],[APAC:11],[ARENA:9])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[RTR:213],[RTR:213],[RTR:213],[RTR:213],[M12:73],[M12:73],[M12:73])([RTR:141],[RTR:141],[C16:181],[C16:181],[C16:181],[C16:181],[PLS:97],[PLS:97],[PLS:97],[PLS:97],[KLD:50],[MED:133])([CN2:77],[CN2:77],[CON:32],[CON:32],[EMA:206],[EMA:206],[EMA:206],[EMA:206],[MOR:55])([TMP:107],[TMP:107],[TMP:107],[TMP:107])([ALL:42],[ALL:42],[ALL:42],[ALL:42])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([JUD:62],[JUD:62],[USG:240],[USG:240],[THS:107],[THS:107])([RTR:141],[BOK:163],[TMP:56])([AER:73],[AER:73])([M11:101],[M11:101],[M11:101],[M11:101])

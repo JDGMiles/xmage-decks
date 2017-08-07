@@ -1,0 +1,41 @@
+NAME:Legacy Black Blue Control
+3 [ONS:313] Bloodstained Mire
+2 [RAV:296] Swamp
+3 [ONS:316] Flooded Strand
+4 [EMA:215] Deathrite Shaman
+1 [FNMP:66] Counterspell
+2 [EMA:57] Jace, the Mind Sculptor
+1 [ROE:115] Inquisition of Kozilek
+1 [THS:107] Thoughtseize
+4 [MMQ:61] Brainstorm
+2 [ISD:78] Snapcaster Mage
+1 [ZEN:67] Spell Pierce
+3 [C13:177] Baleful Strix
+1 [FRF:72] Gurmag Angler
+1 [5DN:55] Night's Whisper
+1 [PLC:165] Urborg, Tomb of Yawgmoth
+2 [NPH:35] Gitaxian Probe
+2 [EMA:108] Toxic Deluge
+3 [MPRP:29] Ponder
+4 [ONS:321] Polluted Delta
+2 [AER:57] Fatal Push
+3 [EMA:49] Force of Will
+1 [JUD:62] Cabal Therapy
+2 [LEB:301] Underground Sea
+1 [KTK:81] Murderous Cut
+2 [CNS:108] Stifle
+3 [NEM:30] Daze
+1 [FRF:87] Tasigur, the Golden Fang
+3 [ARENA:9] Island
+1 [FUT:91] Tombstalker
+SB: 1 [DST:21] Echoing Truth
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [RAV:82] Darkblast
+SB: 1 [CHK:133] Night of Souls' Betrayal
+SB: 1 [USG:132] Duress
+SB: 1 [ORI:114] Read the Bones
+SB: 1 [TMP:24] Dread of Night
+SB: 1 [C13:249] Nihil Spellbomb
+SB: 1 [ONS:73] Chain of Vapor
+LAYOUT MAIN:(1,9)(CMC,false,56)|([ONS:321],[ONS:321],[ONS:321],[ONS:321],[ONS:316],[ONS:316],[ONS:316],[ONS:313],[ONS:313],[ONS:313],[PLC:165],[RAV:296],[RAV:296],[ARENA:9],[ARENA:9],[ARENA:9],[LEB:301],[LEB:301])([JUD:62],[ROE:115],[THS:107],[MPRP:29],[MPRP:29],[MPRP:29],[MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[AER:57],[AER:57],[NPH:35],[NPH:35],[EMA:215],[EMA:215],[EMA:215],[EMA:215],[CNS:108],[CNS:108],[ZEN:67])([C13:177],[C13:177],[C13:177],[5DN:55],[ISD:78],[ISD:78],[NEM:30],[NEM:30],[NEM:30],[FNMP:66])([EMA:108],[EMA:108])([EMA:57],[EMA:57])([EMA:49],[EMA:49],[EMA:49],[KTK:81])([FRF:87])([FRF:72])([FUT:91])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([RTR:231],[C13:249],[USG:132],[ONS:73],[TMP:24],[RAV:82])([DST:21])([ORI:114])([CHK:133])

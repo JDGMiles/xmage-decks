@@ -1,0 +1,26 @@
+4 [AER:181] Walking Ballista
+4 [AER:140] Winding Constrictor
+4 [KLD:172] Verdurous Gearhulk
+4 [KLD:243] Blooming Marsh
+4 [AER:57] Fatal Push
+3 [OGW:85] Grasp of Darkness
+9 [KLD:264] Forest
+2 [OGW:138] Nissa, Voice of Zendikar
+3 [OGW:144] Sylvan Advocate
+4 [OGW:140] Oath of Nissa
+4 [OGW:171] Hissing Quagmire
+7 [KLD:256] Swamp
+1 [AER:142] Aethersphere Harvester
+2 [AER:61] Gifted Aetherborn
+2 [BFZ:201] Catacomb Sifter
+3 [AER:122] Rishkar, Peema Renegade
+SB: 1 [BFZ:119] Ob Nixilis Reignited
+SB: 1 [KLD:141] Appetite for the Unnatural
+SB: 2 [OGW:70] Flaying Tendrils
+SB: 2 [OGW:86] Kalitas, Traitor of Ghet
+SB: 3 [SOI:233] Tireless Tracker
+SB: 2 [EMN:3] Distended Mindbender
+SB: 1 [BFZ:123] Ruinous Path
+SB: 3 [BFZ:101] Transgress the Mind
+LAYOUT MAIN:(1,5)(CMC,false,50)|([KLD:243],[KLD:243],[KLD:243],[KLD:243],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[KLD:264],[OGW:171],[OGW:171],[OGW:171],[OGW:171],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[KLD:256],[AER:181],[AER:181],[AER:181],[AER:181])([AER:57],[AER:57],[AER:57],[AER:57],[OGW:140],[OGW:140],[OGW:140],[OGW:140])([AER:61],[AER:61],[OGW:85],[OGW:85],[OGW:85],[OGW:144],[OGW:144],[OGW:144],[AER:140],[AER:140],[AER:140],[AER:140])([AER:142],[BFZ:201],[BFZ:201],[OGW:138],[OGW:138],[AER:122],[AER:122],[AER:122])([KLD:172],[KLD:172],[KLD:172],[KLD:172])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([BFZ:101],[BFZ:101],[BFZ:101])([KLD:141],[OGW:70],[OGW:70],[BFZ:123],[SOI:233],[SOI:233],[SOI:233])([OGW:86],[OGW:86])([BFZ:119])([EMN:3],[EMN:3])

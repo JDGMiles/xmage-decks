@@ -1,0 +1,39 @@
+NAME:4 Colour Leovold
+1 [M11:149] Lightning Bolt
+2 [LEA:55] Counterspell
+4 [ALL:42] Force of Will
+4 [MMQ:61] Brainstorm
+2 [THS:107] Thoughtseize
+1 [RAV:295] Swamp
+3 [ISD:78] Snapcaster Mage
+1 [ZEN:229] Verdant Catacombs
+3 [LEB:299] Tropical Island
+2 [CN2:77] Leovold, Emissary of Trest
+4 [ZEN:223] Scalding Tarn
+2 [DTK:224] Kolaghan's Command
+1 [LEB:139] Badlands
+1 [EMA:108] Toxic Deluge
+4 [M12:73] Ponder
+4 [PC2:82] Baleful Strix
+2 [AER:57] Fatal Push
+4 [KTK:239] Polluted Delta
+2 [RTR:141] Abrupt Decay
+3 [LEB:301] Underground Sea
+4 [RTR:213] Deathrite Shaman
+2 [LEB:302] Volcanic Island
+1 [FRF:87] Tasigur, the Golden Fang
+1 [DD3JVC:32] Island
+2 [WWK:31] Jace, the Mind Sculptor
+SB: 1 [ZEN:57] Mindbreak Trap
+SB: 1 [MOR:55] Vendilion Clique
+SB: 2 [VMA:68] Flusterstorm
+SB: 1 [RTR:231] Pithing Needle
+SB: 2 [NPH:74] Surgical Extraction
+SB: 3 [TMP:22] Diabolic Edict
+SB: 1 [LEB:171] Red Elemental Blast
+SB: 1 [5DN:118] Engineered Explosives
+SB: 1 [M12:145] Grim Lavamancer
+SB: 1 [THS:107] Thoughtseize
+SB: 1 [MED:107] Pyroblast
+LAYOUT MAIN:(1,7)(CMC,false,56)|([KTK:239],[KTK:239],[KTK:239],[KTK:239],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:223],[ZEN:229],[LEB:139],[RAV:295],[LEB:299],[LEB:299],[LEB:299],[LEB:301],[LEB:301],[LEB:301],[LEB:302],[LEB:302],[DD3JVC:32])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[RTR:213],[RTR:213],[RTR:213],[RTR:213],[AER:57],[AER:57],[M11:149],[M12:73],[M12:73],[M12:73],[M12:73],[THS:107],[THS:107])([RTR:141],[RTR:141],[ISD:78],[ISD:78],[ISD:78],[LEA:55],[LEA:55],[PC2:82],[PC2:82],[PC2:82],[PC2:82])([DTK:224],[DTK:224],[CN2:77],[CN2:77],[EMA:108])([WWK:31],[WWK:31])([ALL:42],[ALL:42],[ALL:42],[ALL:42])([FRF:87])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([5DN:118])([VMA:68],[VMA:68],[M12:145],[RTR:231],[NPH:74],[NPH:74],[THS:107],[MED:107],[LEB:171])([TMP:22],[TMP:22],[TMP:22])([MOR:55])([ZEN:57])

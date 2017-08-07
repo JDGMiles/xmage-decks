@@ -1,0 +1,42 @@
+NAME:Modern Urza Lands Eldrazi
+1 [ATQ:85] Urza's Tower
+1 [ATQ:84] Urza's Tower
+1 [ATQ:83] Urza's Tower
+1 [ATQ:82] Urza's Power Plant
+1 [WWK:122] Basilisk Collar
+2 [OGW:184a] Wastes
+1 [ATQ:86] Urza's Tower
+1 [ATQ:81] Urza's Power Plant
+1 [ATQ:80] Urza's Power Plant
+4 [ZEN:201] Expedition Map
+1 [AVR:226] Cavern of Souls
+4 [ISD:240] Ghost Quarter
+3 [NPH:57] Dismember
+1 [ATQ:79] Urza's Power Plant
+4 [AER:181] Walking Ballista
+1 [ATQ:78] Urza's Mine
+3 [MRD:150] Chalice of the Void
+1 [ATQ:77] Urza's Mine
+1 [ATQ:76] Urza's Mine
+1 [ATQ:75] Urza's Mine
+4 [ROE:227] Eldrazi Temple
+2 [10E:335] Mind Stone
+1 [OGW:177] Sea Gate Wreckage
+2 [ROE:1] All Is Dust
+1 [EMN:6] Emrakul, the Promised End
+3 [OGW:3] Endbringer
+4 [OGW:6] Matter Reshaper
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+4 [OGW:7] Reality Smasher
+4 [OGW:9] Thought-Knot Seer
+SB: 2 [RTR:231] Pithing Needle
+SB: 2 [NPH:74] Surgical Extraction
+SB: 1 [WWK:122] Basilisk Collar
+SB: 2 [DKA:149] Grafdigger's Cage
+SB: 2 [M14:215] Ratchet Bomb
+SB: 1 [FRF:1] Ugin, the Spirit Dragon
+SB: 1 [10E:319] Crucible of Worlds
+SB: 2 [ORI:229] Hangarback Walker
+SB: 2 [ALA:218] Relic of Progenitus
+LAYOUT MAIN:(1,10)(CMC,false,56)|([AVR:226],[MRD:150],[MRD:150],[MRD:150],[ROE:227],[ROE:227],[ROE:227],[ROE:227],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[OGW:177],[AER:181],[AER:181],[AER:181],[AER:181],[OGW:184a],[OGW:184a],[ATQ:83],[ATQ:86],[ATQ:85],[ATQ:84],[ATQ:79],[ATQ:80],[ATQ:81],[ATQ:82],[ATQ:75],[ATQ:76],[ATQ:77],[ATQ:78])([WWK:122],[ZEN:201],[ZEN:201],[ZEN:201],[ZEN:201])([10E:335],[10E:335])([NPH:57],[NPH:57],[NPH:57],[OGW:6],[OGW:6],[OGW:6],[OGW:6])([OGW:9],[OGW:9],[OGW:9],[OGW:9])([OGW:7],[OGW:7],[OGW:7],[OGW:7])([OGW:3],[OGW:3],[OGW:3])([ROE:1],[ROE:1])([BFZ:15])([EMN:6])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([ORI:229],[ORI:229])([WWK:122],[DKA:149],[DKA:149],[RTR:231],[RTR:231],[ALA:218],[ALA:218],[NPH:74],[NPH:74])([M14:215],[M14:215])([10E:319])([FRF:1])

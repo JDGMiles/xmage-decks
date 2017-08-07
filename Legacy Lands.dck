@@ -1,0 +1,35 @@
+NAME:Lands
+1 [ODY:313] Barbarian Ring
+3 [ZEN:142] Punishing Fire
+4 [STH:132] Mox Diamond
+4 [FUT:176] Grove of the Burnwillows
+4 [RAV:172] Life from the Loam
+1 [ZEN:229] Verdant Catacombs
+1 [10E:228] Seismic Assault
+2 [LEB:298] Taiga
+1 [LEG:248] Karakas
+4 [USG:188] Gamble
+4 [ISD:240] Ghost Quarter
+3 [DRK:114] Maze of Ith
+3 [CSP:145] Dark Depths
+1 [ODY:350] Forest
+4 [TMP:340] Wasteland
+1 [JUD:143] Riftstone Portal
+1 [ONS:326] Tranquil Thicket
+1 [ICE:331] Glacial Chasm
+1 [ONS:328] Windswept Heath
+1 [CHK:273] Boseiju, Who Shelters All
+4 [GTC:248] Thespian's Stage
+2 [EXO:113] Manabond
+4 [USG:250] Exploration
+1 [LEG:252] The Tabernacle at Pendrell Vale
+1 [ONS:330] Wooded Foothills
+4 [ULG:98] Crop Rotation
+SB: 3 [EXO:139] Sphere of Resistance
+SB: 2 [PLC:108] Sulfur Elemental
+SB: 3 [MRD:150] Chalice of the Void
+SB: 1 [WWK:132] Bojuka Bog
+SB: 2 [SOI:233] Tireless Tracker
+SB: 4 [TSP:202] Krosan Grip
+LAYOUT MAIN:(1,4)(CMC,false,50)|([ODY:313],[CHK:273],[CSP:145],[CSP:145],[CSP:145],[ISD:240],[ISD:240],[ISD:240],[ISD:240],[ICE:331],[FUT:176],[FUT:176],[FUT:176],[FUT:176],[LEG:248],[DRK:114],[DRK:114],[DRK:114],[JUD:143],[LEG:252],[GTC:248],[GTC:248],[GTC:248],[GTC:248],[ONS:326],[ZEN:229],[TMP:340],[TMP:340],[TMP:340],[TMP:340],[STH:132],[STH:132],[STH:132],[STH:132],[ONS:328],[ONS:330],[LEB:298],[LEB:298],[ODY:350])([ULG:98],[ULG:98],[ULG:98],[ULG:98],[USG:188],[USG:188],[USG:188],[USG:188],[USG:250],[USG:250],[USG:250],[USG:250],[EXO:113],[EXO:113])([RAV:172],[RAV:172],[RAV:172],[RAV:172],[ZEN:142],[ZEN:142],[ZEN:142])([10E:228])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([WWK:132],[MRD:150],[MRD:150],[MRD:150])([EXO:139],[EXO:139],[EXO:139])([TSP:202],[TSP:202],[TSP:202],[TSP:202],[PLC:108],[PLC:108],[SOI:233],[SOI:233])
