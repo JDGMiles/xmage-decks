@@ -1,0 +1,27 @@
+NAME:Legacy Bomberman
+4 [AER:181] Walking Ballista
+4 [RAV:81] Dark Confidant
+4 [MRD:150] Chalice of the Void
+4 [5DN:4] Auriok Salvagers
+4 [ICE:318] Urza's Bauble
+4 [TMP:284] Lotus Petal
+4 [EXO:143] City of Traitors
+2 [DIS:46] Infernal Tutor
+4 [AVR:226] Cavern of Souls
+1 [LEG:248] Karakas
+4 [TMP:305] Ancient Tomb
+4 [MIR:272] Lion's Eye Diamond
+4 [FRF:20] Monastery Mentor
+4 [CSP:138] Mishra's Bauble
+4 [SOM:179] Mox Opal
+1 [HOU:185] Plains
+4 [LEB:294] Scrubland
+SB: 3 [ALA:10] Ethersworn Canonist
+SB: 1 [AKH:8] Cast Out
+SB: 1 [TSB:6] Disenchant
+SB: 1 [M15:225] Phyrexian Revoker
+SB: 4 [M15:237] Tormod's Crypt
+SB: 2 [MPS-AKH:3] Containment Priest
+SB: 3 [ICE:278] Swords to Plowshares
+LAYOUT MAIN:(1,4)(CMC,false,50)|([TMP:305],[TMP:305],[TMP:305],[TMP:305],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[MRD:150],[MRD:150],[MRD:150],[MRD:150],[EXO:143],[EXO:143],[EXO:143],[EXO:143],[LEG:248],[MIR:272],[MIR:272],[MIR:272],[MIR:272],[TMP:284],[TMP:284],[TMP:284],[TMP:284],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[SOM:179],[SOM:179],[SOM:179],[SOM:179],[HOU:185],[AER:181],[AER:181],[AER:181],[AER:181],[LEB:294],[LEB:294],[LEB:294],[LEB:294],[ICE:318],[ICE:318],[ICE:318],[ICE:318])([RAV:81],[RAV:81],[RAV:81],[RAV:81],[DIS:46],[DIS:46])([FRF:20],[FRF:20],[FRF:20],[FRF:20])([5DN:4],[5DN:4],[5DN:4],[5DN:4])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([M15:237],[M15:237],[M15:237],[M15:237])([ICE:278],[ICE:278],[ICE:278])([MPS-AKH:3],[MPS-AKH:3],[TSB:6],[ALA:10],[ALA:10],[ALA:10],[M15:225])([AKH:8])

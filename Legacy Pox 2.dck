@@ -1,0 +1,33 @@
+NAME:Legacy Pox
+4 [MMQ:129] Dark Ritual
+4 [TMP:340] Wasteland
+2 [LEB:38] Sinkhole
+2 [MMQ:149] Nether Spirit
+2 [AER:57] Fatal Push
+4 [M12:108] Smallpox
+12 [CSP:153] Snow-Covered Swamp
+1 [ATQ:67] Mishra's Factory
+1 [ATQ:66] Mishra's Factory
+1 [PLC:71] Extirpate
+4 [ROE:115] Inquisition of Kozilek
+3 [TMP:271] Cursed Scroll
+1 [M15:122] Waste Not
+1 [NPH:74] Surgical Extraction
+4 [FEM:12] Hymn to Tourach
+4 [M15:248] Urborg, Tomb of Yawgmoth
+3 [ODY:145] Innocent Blood
+1 [ATQ:69] Mishra's Factory
+1 [ATQ:68] Mishra's Factory
+1 [MED:82] Pox
+4 [ISD:105] Liliana of the Veil
+SB: 4 [RAV:81] Dark Confidant
+SB: 2 [EMN:85] Collective Brutality
+SB: 1 [WTH:154] Null Rod
+SB: 1 [RTR:231] Pithing Needle
+SB: 1 [NPH:74] Surgical Extraction
+SB: 2 [CHK:133] Night of Souls' Betrayal
+SB: 2 [EMA:108] Toxic Deluge
+SB: 1 [ALL:6] Dystopia
+SB: 1 [PLC:71] Extirpate
+LAYOUT MAIN:(1,4)(CMC,false,50)|([CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[CSP:153],[M15:248],[M15:248],[M15:248],[M15:248],[TMP:340],[TMP:340],[TMP:340],[TMP:340],[ATQ:66],[ATQ:67],[ATQ:68],[ATQ:69])([TMP:271],[TMP:271],[TMP:271],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[PLC:71],[AER:57],[AER:57],[ODY:145],[ODY:145],[ODY:145],[ROE:115],[ROE:115],[ROE:115],[ROE:115],[NPH:74])([FEM:12],[FEM:12],[FEM:12],[FEM:12],[M12:108],[M12:108],[M12:108],[M12:108],[M15:122],[LEB:38],[LEB:38])([ISD:105],[ISD:105],[ISD:105],[ISD:105],[MMQ:149],[MMQ:149],[MED:82])
+LAYOUT SIDEBOARD:(1,4)(CMC,false,50)|([PLC:71],[RTR:231],[NPH:74])([EMN:85],[EMN:85],[RAV:81],[RAV:81],[RAV:81],[RAV:81],[WTH:154])([ALL:6],[EMA:108],[EMA:108])([CHK:133],[CHK:133])
